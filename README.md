@@ -60,7 +60,7 @@
 
 
 ```bash
-$ git clone https://github.com/ultrasecurity/Storm-Breaker
+$ git clone https://github.com/sirajul26/Storm-Breaker
 $ cd Storm-Breaker
 $ sudo bash install.sh
 $ sudo python3 -m pip install -r requirements.txt
